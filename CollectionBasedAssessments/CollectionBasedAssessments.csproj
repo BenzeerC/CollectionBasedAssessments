@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CollectionBasedAssessments.Program6</StartupObject>
+    <StartupObject>CollectionBasedAssessments.Program5</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
